@@ -1,4 +1,4 @@
-# test
+# test_in_golang
 package main
 
 import (
